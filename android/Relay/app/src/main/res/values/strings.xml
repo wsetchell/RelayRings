@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relay</string>
+
+    <string name="hello_world">Nothing to see here. Close the app!</string>
+    <string name="action_settings">Settings</string>
+    <string name="do_notify">Send Test Notification</string>
+</resources>
